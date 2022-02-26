@@ -27,7 +27,7 @@ public class day8_Data_Types_java {
             catch(Exception e)
             {
                 System.out.println(sc.next()+" can't be fitted anywhere.");
-            
+            {
 
         }
     }
