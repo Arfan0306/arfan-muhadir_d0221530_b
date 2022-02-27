@@ -1,5 +1,5 @@
 
-package arfan_muahdir;
+package arfan_muhadir;
 import java.io.*;
 import java.util.*;
 import java.text.*;
