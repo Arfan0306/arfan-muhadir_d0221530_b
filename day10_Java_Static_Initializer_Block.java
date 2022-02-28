@@ -1,10 +1,12 @@
+
+package arfan_muhadir;
 import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class Solution {
+public class day10_java_Static_initializer_Block {
 
 //Write your code here
 static Scanner sc = new Scanner(System.in);
