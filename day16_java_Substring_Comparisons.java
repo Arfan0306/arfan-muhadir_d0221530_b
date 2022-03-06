@@ -1,5 +1,5 @@
 
-package via;
+package arfan_muhadir;
 import java.util.Scanner;
 
 public class day16_java_Substring_Comparisons {
